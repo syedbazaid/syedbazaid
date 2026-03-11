@@ -1,15 +1,21 @@
-# 💫 About Me:
-im a software engineer student in bahria uni<br>i studies programming in c++ and now studying OOP<br>now in coming days will work on jav<br>
+💫 About Me:
+🔭 I’m currently working on
+Improving my programming skills and building small projects using C++ and Python.
 
+👯 I’m looking to collaborate on
+Beginner-friendly open source projects, web development projects, and coding practice projects.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedbazaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=syedbazaid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedbazaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🤝 I’m looking for help with
+Learning Data Structures & Algorithms and improving my problem-solving skills.
 
----
-[![](https://visitcount.itsvg.in/api?id=syedbazaid&icon=0&color=0)](https://visitcount.itsvg.in)
+🌱 I’m currently learning
+C++, Python, HTML, CSS, JavaScript, and Git/GitHub.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💬 Ask me about
+Programming basics, C++, beginner web development, and coding practice.
+
+⚡ Fun fact
+I enjoy solving coding problems and learning new technologies step by step.
+
+💻 Tech Stack:
+C++ JavaScript Google Cloud
